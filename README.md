@@ -1,10 +1,29 @@
-# Flicks
+# Flix
 
-Flicks is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-## Flicks Part 1
+## Flix Part 2
 
-### User Stories
+## User Stories
+
+#### REQUIRED (10pts)
+- [X] (5pts) User can tap a cell to see more details about a particular movie.
+- [X] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [X] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [X] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+- [X] (2pts) User can pull to refresh the Now Playing Movies.
+
+### App Walkthough GIF
+
+<img src="https://github.com/skazmi154/Flicks/blob/master/flix.mp4" width=250><br>
+
+
+
+## Flix Part 1
+
+## User Stories
 
 #### REQUIRED (10pts)
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
@@ -20,4 +39,4 @@ Flicks is an app that allows users to browse movies from the [The Movie Database
 <img src="https://github.com/skazmi154/Flicks/blob/master/Flicks/flicks.gif" width=250><br>
 
 ### Notes
-It was a simple application
+Simpl application to build
