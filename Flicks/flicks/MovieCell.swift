@@ -1,22 +1,15 @@
-//
-//  MovieCell.swift
-//  flicks
-//
-//  Created by Syed Kazmi on 2/6/19.
-//  Copyright © 2019 Syed Kazmi. All rights reserved.
-//
 
 import UIKit
 
 class MovieCell: UITableViewCell {
+
+    @IBOutlet weak var overviewLabel: UILabel!
     
-    @IBOutlet weak var movieTitle: UILabel!
+    
+    @IBOutlet weak var titleLabel: UILabel!
     
     
-    
-    @IBOutlet weak var movieDescription: UILabel!
-    
-    @IBOutlet weak var moviePoster: UIImageView!
+    @IBOutlet weak var posterImage: UIImageView!
     
     
     override func awakeFromNib() {
